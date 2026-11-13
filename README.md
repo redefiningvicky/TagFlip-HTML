@@ -16,9 +16,10 @@
 <ul>
   <li><a href="#objective">Objective</a></li>
   <li><a href="#project-details">Project Details</a></li>
-  <li><a href="#app">App</a></li>
+  <li><a href="#instructions">Instructions</a></li>
   <li><a href="#flashcard-topics">Flashcard Topics</a></li>
   <li><a href="#how-to-use">How to Use</a></li>
+  <li><a href="#app">App</a></li>
   <li><a href="#notes">Notes</a></li>
 </ul>
 
@@ -54,7 +55,7 @@
 
 <hr>
 
-<h2 id="app">🖥️ App</h2>
+<h2 id="instructions">📋 Instructions </h2>
 
 <p>
   Each flashcard introduces one HTML pattern. Flip it to compare the complete
@@ -119,6 +120,18 @@
   <li>Select <strong>Copy code</strong> and replace the example text or paths with your own.</li>
   <li>Mark the card Known or Review again to track what you want to study.</li>
 </ol>
+
+<hr>
+
+<h2 id="app">🖥️ App</h2>
+
+<p>
+  <a href="https://tagflip-html.lovable.app">
+    Launch App
+  </a>
+</p>
+
+<hr>
 
 <h2 id="notes">🟩 Notes</h2>
 <p>
