@@ -1,10 +1,10 @@
 <div align="center">
 
-  <h1>🃏 TagFlip — HTML Flashcards</h1>
+  <h1>🃏 TagFlip HTML </h1>
 
   <p>
     Learn HTML one flip at a time.
-    Explore practical markup, see a live preview, and copy complete snippets for your GitHub README.
+    Explore practical markup, see a live preview, and copy complete snippets for your html files.
   </p>
 
 </div>
@@ -19,7 +19,6 @@
   <li><a href="#app">App</a></li>
   <li><a href="#flashcard-topics">Flashcard Topics</a></li>
   <li><a href="#how-to-use">How to Use</a></li>
-  <li><a href="#source-code">Source Code</a></li>
 </ul>
 
 <hr>
@@ -28,8 +27,7 @@
 
 <p>
   TagFlip makes it easier for beginners to learn HTML by showing each example
-  as both code and its rendered result. The lessons focus on useful markup for
-  GitHub README files, with complete snippets and plain-language notes about
+  as both code and its rendered result. The lessons focus on useful markup with complete snippets and plain-language notes about
   what to customize.
 </p>
 
@@ -38,15 +36,19 @@
 <h2 id="project-details">🛠️ Project Details</h2>
 
 <p>
-  <strong>Format:</strong> Browser-based learning app
+  <strong>Tools:</strong> Lovable, ChatGPT, Claude
 </p>
 
 <p>
-  <strong>Stack:</strong> React, TypeScript, TanStack Start, Vite, Tailwind CSS
+  <strong>Models:</strong> ChatGPT, Claude
 </p>
 
 <p>
-  <strong>Content:</strong> 35 practical HTML flashcards across seven topics
+  <strong>Format:</strong> Browser App
+</p>
+
+<p>
+  <strong>Content:</strong> 38 practical HTML flashcards across seven topics
 </p>
 
 <hr>
@@ -56,7 +58,7 @@
 <p>
   Each flashcard introduces one HTML pattern. Flip it to compare the complete
   code with a live preview, then copy the snippet and adapt its text, links,
-  or file paths for your own README.
+  or file paths for your own files.
 </p>
 
 <ul>
@@ -123,18 +125,6 @@
   placeholders, so update their paths to real image files when copying examples.
   GitHub sanitizes HTML, and some markup or styling may look different in a
   README than it does in the app preview.
-</p>
-
-<hr>
-
-<h2 id="source-code">💻 Source Code</h2>
-
-<p>
-  The application source is maintained in
-  <a href="https://github.com/redefiningvicky/tagflip-html-flashcards">
-    tagflip-html-flashcards
-  </a>.
-  The flashcard data lives in <code>src/lib/cards.ts</code>.
 </p>
 
 <hr>
