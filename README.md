@@ -19,6 +19,7 @@
   <li><a href="#app">App</a></li>
   <li><a href="#flashcard-topics">Flashcard Topics</a></li>
   <li><a href="#how-to-use">How to Use</a></li>
+  <li><a href="#notes">Notes</a></li>
 </ul>
 
 <hr>
@@ -119,6 +120,7 @@
   <li>Mark the card Known or Review again to track what you want to study.</li>
 </ol>
 
+<h2 id="notes">🟩 Notes</h2>
 <p>
   Study progress is saved in your browser using <code>localStorage</code>;
   it does not automatically sync between devices. Preview images use
