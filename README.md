@@ -37,11 +37,11 @@
 <h2 id="project-details">🛠️ Project Details</h2>
 
 <p>
-  <strong>Tools:</strong> Lovable, ChatGPT, Claude Sonnet 4.6
+  <strong>Tools:</strong> Lovable, ChatGPT, Claude
 </p>
 
 <p>
-  <strong>Models:</strong> ChatGPT 6.1 Sol (2026), Claude
+  <strong>Models:</strong> ChatGPT 6.1 Sol (2026), Claude Sonnet 4.6
 </p>
 
 <p>
