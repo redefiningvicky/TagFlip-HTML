@@ -28,7 +28,7 @@
 <p>
   This project makes it easier for beginners to learn HTML by showing each example
   as both code and its rendered result. The lessons focus on useful markup with complete snippets and plain-language notes about
-  what to customize. Designed with Lovable and ChatGPT 
+  what to customize. Designed with Lovable and ChatGPT to create a hands-on, beginner-friendly study tool.
 </p>
 
 <hr>
