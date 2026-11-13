@@ -4,7 +4,7 @@
 
   <p>
     Learn HTML one flip at a time.
-    Explore practical markup, see a live preview, and copy complete snippets for your html files.
+    Explore practical markup, see a live preview, and copy complete snippets for html files.
   </p>
 
 </div>
