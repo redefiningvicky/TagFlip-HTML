@@ -53,7 +53,7 @@
 
 <hr>
 
-<h2 id="app">🃏 App</h2>
+<h2 id="app">🖥️ App</h2>
 
 <p>
   Each flashcard introduces one HTML pattern. Flip it to compare the complete
