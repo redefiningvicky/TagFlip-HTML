@@ -136,6 +136,54 @@
 
 <h2 id="images">🖼️ Images</h2>
 
+<h3>Home</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/TagFlip-HTML/blob/main/Screenshot/Screenshot_01_Cover.png">
+        <img
+          src="Screenshot/Screenshot_01_Cover.png"
+          alt="Screenshot Cover"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3>Front Flashcard</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/TagFlip-HTML/blob/main/Screenshot/Screenshot_02_Front.png">
+        <img
+          src="Screenshot/Screenshot_02_Front.png"
+          alt="Screenshot Front"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3>Back Flashcard</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/TagFlip-HTML/blob/main/Screenshot/Screenshot_03_Back.png">
+        <img
+          src="Screenshot/Screenshot_03_Back.png"
+          alt="Screenshot Back"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <hr>
 
 <h2 id="notes">🟩 Notes</h2>
