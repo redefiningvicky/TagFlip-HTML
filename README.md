@@ -47,7 +47,7 @@
 </p>
 
 <p>
-  <strong>Format:</strong> Browser Game
+  <strong>Format:</strong> Browser App
 </p>
 
 <p>
