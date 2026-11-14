@@ -20,6 +20,7 @@
   <li><a href="#flashcard-topics">Flashcard Topics</a></li>
   <li><a href="#how-to-use">How to Use</a></li>
   <li><a href="#app">App</a></li>
+  <li><a href="#images">Images</a></li>
   <li><a href="#notes">Notes</a></li>
 </ul>
 
@@ -130,6 +131,10 @@
     Launch App
   </a>
 </p>
+
+<hr>
+
+<h2 id="images">🖼️ Images</h2>
 
 <hr>
 
