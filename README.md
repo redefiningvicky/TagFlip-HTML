@@ -43,7 +43,7 @@
 </p>
 
 <p>
-  <strong>Models:</strong> ChatGPT 6.1 Sol (2026), Claude Sonnet 4.6
+  <strong>Models:</strong> ChatGPT 6.1 Sol (2026), Claude Sonnet 4.6 (2026)
 </p>
 
 <p>
