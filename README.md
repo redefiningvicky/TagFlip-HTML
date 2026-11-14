@@ -141,9 +141,9 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/TagFlip-HTML/blob/main/Screenshot/Screenshot_01_Cover.png">
+      <a href="https://github.com/redefiningvicky/TagFlip-HTML/blob/main/screenshots/Cropped_Screenshots/Cropped_Screenshot_01_Cover.png">
         <img
-          src="Screenshot/Screenshot_01_Cover.png"
+          src="screenshots/Cropped_Screenshots/Cropped_Screenshot_01_Cover.png"
           alt="Screenshot Cover"
           width="100%"
         />
@@ -157,9 +157,9 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/TagFlip-HTML/blob/main/Screenshot/Screenshot_02_Front.png">
+      <a href="https://github.com/redefiningvicky/TagFlip-HTML/blob/main/screenshots/Cropped_Screenshots/Cropped_Screenshot_02_Front.png">
         <img
-          src="Screenshot/Screenshot_02_Front.png"
+          src="screenshots/Cropped_Screenshots/Cropped_Screenshot_02_Front.png"
           alt="Screenshot Front"
           width="100%"
         />
@@ -173,9 +173,9 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/TagFlip-HTML/blob/main/Screenshot/Screenshot_03_Back.png">
+      <a href="https://github.com/redefiningvicky/TagFlip-HTML/blob/main/screenshots/Cropped_Screenshots/Cropped_Screenshot_03_Back.png">
         <img
-          src="Screenshot/Screenshot_03_Back.png"
+          src="screenshots/Cropped_Screenshots/Cropped_Screenshot_03_Back.png"
           alt="Screenshot Back"
           width="100%"
         />
