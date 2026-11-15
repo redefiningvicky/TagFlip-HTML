@@ -3,8 +3,7 @@
   <h1>🃏 TagFlip HTML </h1>
 
   <p>
-    Learn HTML one flip at a time.
-    Explore practical markup, see a live preview, and copy complete snippets for HTML files.
+    Flashcards to learn HTML one flip at a time with practical markup, live previews, and copyable complete snippets for HTML files.
   </p>
 
 </div>
