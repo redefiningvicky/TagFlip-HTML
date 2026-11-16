@@ -3,7 +3,7 @@
   <h1>🃏 TagFlip HTML </h1>
 
   <p>
-    Flashcards to learn HTML one flip at a time with practical markup, live previews, and copyable complete snippets for HTML files.
+    Flashcards for learning HTML one flip at a time using interactive flashcards with practical markup, live previews, and copyable code snippets.
   </p>
 
 </div>
@@ -29,8 +29,8 @@
 
 <p>
   This project makes it easier for beginners to learn HTML by showing each example
-  as both code and its rendered result. The lessons focus on useful markup with complete snippets and plain-language notes about
-  what to customize. Designed with Lovable, ChatGPT, and Claude to create a hands-on, beginner-friendly study tool.
+  as both code and preview. The flashcards focus on useful markup with complete snippets and plain-language notes about
+  what to customize. Designed with Lovable, ChatGPT, and Claude to create a hands-on studying tool.
 </p>
 
 <hr>
@@ -199,10 +199,6 @@
 <div align="center">
 
   <p>
-    <a href="https://github.com/redefiningvicky/Vibe-Coding-Projects">
-      Back to Vibe Coding Projects
-    </a>
-    &nbsp; • &nbsp;
     <a href="https://github.com/redefiningvicky/redefiningvicky">
       Back to Portfolio
     </a>
