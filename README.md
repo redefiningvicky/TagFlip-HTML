@@ -30,7 +30,7 @@
 <p>
   This project makes it easier for beginners to learn HTML by showing each example
   as both code and preview. The flashcards focus on useful markup with complete snippets and plain-language notes about
-  what to customize. Designed with Lovable, ChatGPT, and Claude to create a hands-on learning tool.
+  what to customize. Designed with Lovable, ChatGPT, and Claude to create a hands-on studying tool.
 </p>
 
 <hr>
