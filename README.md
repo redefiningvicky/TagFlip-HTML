@@ -29,7 +29,7 @@
 
 <p>
   This project makes it easier for beginners to learn HTML by showing each example
-  as both code and its rendered result. The lessons focus on useful markup with complete snippets and plain-language notes about
+  as both code and preview. The flashcards focus on useful markup with complete snippets and plain-language notes about
   what to customize. Designed with Lovable, ChatGPT, and Claude to create a hands-on, beginner-friendly study tool.
 </p>
 
