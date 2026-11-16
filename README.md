@@ -3,7 +3,7 @@
   <h1>🃏 TagFlip HTML </h1>
 
   <p>
-    Flashcards to learn HTML one flip at a time with practical markup, live previews, and copyable complete snippets for HTML files.
+    Flashcards for learning HTML one flip at a time using interactive flashcards with practical markup, live previews, and copyable code snippets.
   </p>
 
 </div>
