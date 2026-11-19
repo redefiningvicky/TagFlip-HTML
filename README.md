@@ -38,11 +38,11 @@
 <h2 id="project-details">🛠️ Project Details</h2>
 
 <p>
-  <strong>Workflow:</strong> Claude → Lovable → ChatGPT
+  <strong>Tools:</strong> Lovable, ChatGPT, Claude
 </p>
 
 <p>
-  <strong>Tools:</strong> Lovable, ChatGPT, Claude
+  <strong>Workflow:</strong> Claude → Lovable → ChatGPT
 </p>
 
 <p>
